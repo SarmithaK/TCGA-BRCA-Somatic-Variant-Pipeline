@@ -34,7 +34,7 @@ A computational workflow for exploring and characterizing somatic single-nucleot
 ## 👤 Author
 - **Sarmitha K** – Undergraduate Student, B.Sc. Biotechnology, PSG College of Arts and Science
 - **GitHub:** [@SarmithaK](https://github.com/SarmithaK)
-- **LinkedIn:** [Sarmitha K](https://www.linkedin.com/in/sarmitha-k-4a9156305)
+- **LinkedIn:** [Sarmitha K](https://www.linkedin.com/in/sarmitha-k-4a9156395)
 ## Data Visualizations 📊
 
 ![BRCA Mutation Counts](brca_mutation_counts.png)
